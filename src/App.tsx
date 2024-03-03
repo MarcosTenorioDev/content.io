@@ -30,7 +30,7 @@ function App() {
     completion,
     isLoading,
   } = useCompletion({
-    api: "http://localhost:3333/ai/complete",
+    api: "https://content-io-6703f95eb214.herokuapp.com/ai/complete",
     body: {
       videoId,
       temperature,
