@@ -30,7 +30,7 @@ function App() {
     completion,
     isLoading,
   } = useCompletion({
-    api: "https://content-io-6703f95eb214.herokuapp.com/ai/complete",
+    api: "https://contentai-backend-production.up.railway.app/ai/complete",
     body: {
       videoId,
       temperature,
