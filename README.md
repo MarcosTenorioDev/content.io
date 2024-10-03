@@ -1,4 +1,4 @@
-# Content.AI-Backend  
+# Content.AI-Frontend  
 
 ## Transcribe and Create Content from Videos
 
